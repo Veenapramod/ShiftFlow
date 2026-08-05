@@ -1,4 +1,5 @@
 # ShiftFlow
+<<<<<<< HEAD
 
 A full-stack employee scheduling and labour planning dashboard built for fast-paced shift operations.
 
@@ -136,3 +137,6 @@ BSc Computer Science graduate
 ## License
 
 MIT
+=======
+Workforce scheduling platform with shift creation, availability tracking, conflict detection and staffing insights.
+>>>>>>> c36c70c8d2391f93e90c4e934a95c1e0d9cd3351
