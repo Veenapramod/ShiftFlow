@@ -1,5 +1,4 @@
 # ShiftFlow
-<<<<<<< HEAD
 
 A full-stack employee scheduling and labour planning dashboard built for fast-paced shift operations.
 
@@ -26,7 +25,7 @@ A full-stack employee scheduling and labour planning dashboard built for fast-pa
 
 ## Architecture
 
-```text
+
 React client
     |
     | REST / JSON
@@ -36,7 +35,7 @@ Express API
     | SQL queries and validation
     v
 SQLite database
-```
+
 
 ## Local setup
 
