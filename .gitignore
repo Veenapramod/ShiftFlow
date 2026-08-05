@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Builds
+client/dist/
+server/dist/
+
+# Local database
+server/data/*.db
+server/data/*.db-shm
+server/data/*.db-wal
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS and editor
+.DS_Store
+.vscode/
+.idea/
